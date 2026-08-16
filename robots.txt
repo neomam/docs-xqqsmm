@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-tvm9bx.salamduit.sbs/sitemap.xml
